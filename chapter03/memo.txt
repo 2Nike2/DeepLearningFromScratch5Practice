@@ -1,0 +1,2 @@
+https://github.com/oreilly-japan/deep-learning-from-scratch-5/blob/main/step03/height_weight.txt
+を取得して同じフォルダに格納
